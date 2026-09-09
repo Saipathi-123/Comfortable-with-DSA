@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
