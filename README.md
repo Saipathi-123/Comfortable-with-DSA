@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
@@ -17,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0414-third-maximum-number) |
 ## Dynamic Programming
 |  |
@@ -47,8 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0202-happy-number) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
