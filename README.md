@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0414-third-maximum-number) |
 ## Dynamic Programming
 |  |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -63,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
