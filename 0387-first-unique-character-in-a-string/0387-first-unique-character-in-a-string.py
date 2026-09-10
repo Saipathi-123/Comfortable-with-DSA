@@ -4,13 +4,15 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        hash_arr=[0]*26
-        for i in s:
-            index=ord(i)-ord("a")
-            hash_arr[index]+=1
-        for j in range(len(s)):
-            index=ord(s[j])-ord("a")
-            if hash_arr[index]==1:
-                return j
-        return -1
+        # Find all unique characters present in s (maximum 26 items)
+        unique_chars = set(s)
         
+        # Track the absolute minimum index found
+        min_index = float('inf')
+        
+        for char in unique_chars:
+            # If the first index matches the last index, it appears exactly once
+            if s.find(char) == s.rfind(char):
+                min_index = min(min_index, s.find(char))
+                
+        return min_index if min_index != float('inf') else -1
