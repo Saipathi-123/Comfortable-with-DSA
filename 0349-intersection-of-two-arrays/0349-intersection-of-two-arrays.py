@@ -5,5 +5,23 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
+    
+        nums1.sort()  # O(n log n)
+        nums2.sort()  # O(m log m)
+        
+        i, j = 0, 0
+        result = set()  # To avoid duplicates in the answer
+        
+        while i < len(nums1) and j < len(nums2):
+            if nums1[i] == nums2[j]:
+                result.add(nums1[i])
+                i += 1
+                j += 1
+            elif nums1[i] < nums2[j]:
+                i += 1
+            else:
+                j += 1
+                
+        return list(result)
 
-        return list(set(nums1)&set(nums2))
+        
