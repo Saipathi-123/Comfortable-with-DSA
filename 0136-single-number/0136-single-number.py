@@ -4,12 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        hash_map={}
-
+        res=0
         for i in nums:
-            hash_map[i]=hash_map.get(i,0)+1
-        for num,count in hash_map.items():
-            if count==1:
-                return num
-                break
-        
+            res^=i
+        return res
