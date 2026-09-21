@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0217-contains-duplicate) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0205-isomorphic-strings) |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0219-contains-duplicate-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
