@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0554-brick-wall](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0554-brick-wall) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1122-relative-sort-array](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0454-4sum-ii](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0454-4sum-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0554-brick-wall](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0554-brick-wall) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1122-relative-sort-array](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/1207-unique-number-of-occurrences) |
