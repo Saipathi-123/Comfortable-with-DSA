@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1122-relative-sort-array](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0454-4sum-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1122-relative-sort-array](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/1207-unique-number-of-occurrences) |
 ## Sorting
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0414-third-maximum-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1122-relative-sort-array](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/1122-relative-sort-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -110,4 +113,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0128-longest-consecutive-sequence) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
