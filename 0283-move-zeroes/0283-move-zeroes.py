@@ -7,10 +7,6 @@ class Solution(object):
         left= 0
         for right in range(len(nums)):
             if nums[right]!=0:
-                temp=nums[left]
-                nums[left]=nums[right]
-                nums[right]=temp
+                nums[left],nums[right]=nums[right],nums[left]
                 left+=1
-                right+=1
-        return nums
-        
+                
