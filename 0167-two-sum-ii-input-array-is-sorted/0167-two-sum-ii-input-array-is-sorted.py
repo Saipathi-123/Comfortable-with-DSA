@@ -12,7 +12,7 @@ class Solution(object):
             sum=numbers[left]+numbers[right]
             if sum==target:
                 return [left,right]
-                break
+                
             elif sum>target:
                 right-=1
             elif sum<target:
