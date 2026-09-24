@@ -1,8 +1,7 @@
-import atexit
+
 
 class Solution(object):
-    # This line forces LeetCode's timer file to rewrite to 0 upon exit
-    atexit.register(lambda: open("display_runtime.txt", "w").write("0"))
+
 
     def twoSum(self, numbers, target):
         # Your optimized two-pointer code goes here
