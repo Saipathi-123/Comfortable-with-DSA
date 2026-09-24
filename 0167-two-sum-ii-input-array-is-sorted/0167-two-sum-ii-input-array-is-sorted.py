@@ -1,19 +1,20 @@
-
-
 class Solution(object):
-
-
     def twoSum(self, numbers, target):
-        # Your optimized two-pointer code goes here
+        """
+        :type numbers: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
         left = 0
         right = len(numbers) - 1
         
         while left < right:
             current_sum = numbers[left] + numbers[right]
+            
             if current_sum == target:
-                return [left + 1, right + 1]
+                # Add 1 to convert from 0-based to 1-based indexing
+                return [left + 1, right + 1] 
             elif current_sum > target:
                 right -= 1
             else:
                 left += 1
-        return [left + 1, right + 1]
