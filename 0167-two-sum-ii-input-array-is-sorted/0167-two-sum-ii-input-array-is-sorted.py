@@ -16,3 +16,4 @@ class Solution(object):
                 right -= 1
             else:
                 left += 1
+        return [left + 1, right + 1]
