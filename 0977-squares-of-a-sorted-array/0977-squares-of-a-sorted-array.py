@@ -4,20 +4,23 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        n=len(nums)
-        res=[0]*n
-        l,r,write_index=0,n-1,n-1
-        while l<=r:
-            left_sq=nums[l]*nums[l]
-            right_sq=nums[r]*nums[r]
-
-            if left_sq<right_sq:
-                res[write_index]=right_sq
-                r-=1
-            else:
-                res[write_index]=left_sq
-                l+=1
-            write_index-=1
-        return res
-
+        n = len(nums)
+        l = 0
+        r = n - 1
+        pos = n - 1
+        res = [0] * n  # Initializes an array of size n with zeros
         
+        while l <= r:
+            left = nums[l] * nums[l]
+            right = nums[r] * nums[r]
+            
+            if left > right:
+                res[pos] = left
+                l += 1
+                pos -= 1
+            else:
+                res[pos] = right
+                r -= 1
+                pos -= 1
+                
+        return res
