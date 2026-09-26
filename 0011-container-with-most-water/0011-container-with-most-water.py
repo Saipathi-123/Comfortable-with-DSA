@@ -4,21 +4,22 @@ class Solution(object):
         :type height: List[int]
         :rtype: int
         """
-
-        n=len(height)
+        n = len(height)
+        left = 0
+        right = n - 1
+        max_area = 0
         
-        left=0
-        right=n-1
-        area=(right-left)*min(height[left],height[right])
-       
-        while left<right:
-
-            if height[left]<height[right]:
-                left+=1
-                current_area = (right-left) * min(height[left], height[right])
-                area = max(area, current_area)                
+        while left < right:
+            # Calculate the area between the two pointers
+            area = (right - left) * min(height[left], height[right])
+            
+            # Update the maximum area found so far
+            max_area = max(area, max_area)
+            
+            # Move the pointer pointing to the shorter line inward
+            if height[left] < height[right]:
+                left += 1
             else:
-                right-=1
-                current_area = (right-left) * min(height[left], height[right])
-                area = max(area, current_area)
-        return area
+                right -= 1
+                
+        return max_area
