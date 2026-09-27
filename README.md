@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0011-container-with-most-water) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/2248-intersection-of-multiple-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/2248-intersection-of-multiple-arrays) |
 ## String
 |  |
 | ------- |
@@ -32,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [2248-intersection-of-multiple-arrays](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/2248-intersection-of-multiple-arrays) |
+## Counting
+|  |
+| ------- |
+| [2248-intersection-of-multiple-arrays](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/2248-intersection-of-multiple-arrays) |
 <!---LeetCode Topics End-->
