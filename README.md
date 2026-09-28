@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0016-3sum-closest) |
+| [0881-boats-to-save-people](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/2248-intersection-of-multiple-arrays) |
 ## Two Pointers
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0016-3sum-closest) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0392-is-subsequence) |
+| [0881-boats-to-save-people](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0881-boats-to-save-people) |
 | [0925-long-pressed-name](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0016-3sum-closest) |
+| [0881-boats-to-save-people](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/2248-intersection-of-multiple-arrays) |
 ## String
@@ -40,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/2248-intersection-of-multiple-arrays) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
