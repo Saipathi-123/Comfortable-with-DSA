@@ -5,11 +5,12 @@ class Solution(object):
         :rtype: List[List[int]]
         """
         nums.sort()
+        n=len(nums)
         res=[]
-        for i in range(len(nums)-1):
+        for i in range(n-1):
             if i>0 and nums[i]==nums[i-1]:
                 continue
-            left,right=i+1,len(nums)-1
+            left,right=i+1,n-1
             target=-nums[i]
             while left<right:
                 two_sum=nums[left]+nums[right]
