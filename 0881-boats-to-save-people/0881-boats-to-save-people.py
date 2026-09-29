@@ -9,11 +9,22 @@ class Solution(object):
         count=0
         i,j=0,len(nums)-1
         while i<=j:
-            if nums[i]+nums[j]<=target:
+            if nums[i]==target:
+                count+=1
+                i+=1
+            elif nums[j]==target:
+                count+=1
+                j-=1
+            elif nums[i]+nums[j]==target:
+                count+=1
                 i+=1
                 j-=1
-            else:
+            elif nums[i]+nums[j]>target:
+                count+=1
                 j-=1
-            count+=1
+            elif nums[i]+nums[j]<target:
+                count+=1
+                i+=1
+                j-=1
         return count
         
