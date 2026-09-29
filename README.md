@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0018-4sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0881-boats-to-save-people](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0018-4sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0392-is-subsequence) |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0018-4sum) |
 | [0881-boats-to-save-people](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/2248-intersection-of-multiple-arrays) |
