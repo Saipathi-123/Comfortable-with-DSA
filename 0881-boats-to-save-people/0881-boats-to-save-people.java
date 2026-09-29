@@ -5,16 +5,29 @@ class Solution {
         int i=0;
         int j=nums.length-1;
         while(i<=j){
-            if(nums[i]+nums[j]<=target){
-                i++;
-                j--;
+            if(nums[i]==target){
+                count+=1;
+                i+=1;
             }
-            else{
-                j--;
+            else if(nums[j]==target){
+                count+=1;
+                j-=1;
             }
-            count++;
+            else if(nums[i]+nums[j]==target){
+                count+=1;
+                i+=1;
+                j-=1;
+            }
+            else if(nums[i]+nums[j]>target){
+                count+=1;
+                j-=1;
+            }
+            else if(nums[i]+nums[j]<target){
+                count+=1;
+                i+=1;
+                j-=1;
+            }
         }
-
         return count;     
         
     }
