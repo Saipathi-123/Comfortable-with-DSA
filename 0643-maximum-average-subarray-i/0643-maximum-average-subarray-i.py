@@ -5,19 +5,25 @@ class Solution(object):
         :type k: int
         :rtype: float
         """
-      
-        current_sum = sum(nums[:k])
-        max_sum = current_sum
+        # Renamed variable from 'sum' to 'curr_sum' because 'sum' is a built-in Python function
+        curr_sum = 0
+        for i in range(k):
+            curr_sum += nums[i]
+            
+        # FIX: Added float() to prevent truncated integer division in Python 2
+        max_avg = float(curr_sum) / k 
         
         start = 1
         end = k
         
-        while end < len(nums):
-
-            current_sum = current_sum - nums[start - 1] + nums[end]
-            max_sum = max(max_sum, current_sum)
+        while(end < len(nums)):
+            curr_sum = curr_sum - nums[start - 1] + nums[end]
             
+            # FIX: Added float() here as well
+            curr_avg = float(curr_sum) / k 
+            
+            max_avg = max(max_avg, curr_avg)
             start += 1
             end += 1
-
-        return float(max_sum) / k
+            
+        return max_avg
