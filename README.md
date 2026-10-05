@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/2248-intersection-of-multiple-arrays) |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
