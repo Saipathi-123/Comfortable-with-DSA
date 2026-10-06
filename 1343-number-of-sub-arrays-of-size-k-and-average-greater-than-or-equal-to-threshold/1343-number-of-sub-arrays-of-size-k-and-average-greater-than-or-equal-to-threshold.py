@@ -6,22 +6,11 @@ class Solution(object):
         :type threshold: int
         :rtype: int
         """
-        count=0
- 
-        summ=0
-        for i in range(k):
-            summ+=arr[i]
 
-        if summ/k >=threshold:
-            count+=1
-        start,end=1,k
-        while(end<len(arr)):
-            summ=summ-arr[start-1]+arr[end]
-            if summ/k >= threshold:
-                count+=1
-            start+=1
-            end+=1
-        return count
+        target = k * threshold
 
-        
-        
+        prefix = [0] * (len(arr) + 1)
+        for i in xrange(len(arr)):
+            prefix[i + 1] = prefix[i] + arr[i]
+
+        return sum(1 for i in xrange(len(arr) - k + 1) if prefix[i + k] - prefix[i] >= target)
