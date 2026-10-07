@@ -1,22 +1,16 @@
 class Solution {
     public int divisorSubstrings(int num, int k) {
-        String numStr = String.valueOf(num);
         int count = 0;
-        int n = numStr.length();
-        
-
-        for (int i = 0; i <= n - k; i++) {
-
-            String subStr = numStr.substring(i, i + k);
-
-            int subNum = Integer.parseInt(subStr);
-            
-   
+        int temp = num;
+        int modBase = (int) Math.pow(10, k);
+        int limit = (int) Math.pow(10, k - 1);
+        while (temp >= limit) {
+            int subNum = temp % modBase;
             if (subNum != 0 && num % subNum == 0) {
                 count++;
             }
+            temp /= 10;
         }
-        
         return count;
     }
 }
