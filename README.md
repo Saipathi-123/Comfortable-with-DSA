@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/2248-intersection-of-multiple-arrays) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
