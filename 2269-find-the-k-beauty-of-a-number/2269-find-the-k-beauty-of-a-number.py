@@ -5,10 +5,13 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        num_str=str(num)
         count=0
-        for i in range(len(num_str)-k+1):
-            sub_num=int(num_str[i : i + k])
+        temp=num
+        mod_base=10**k
+        limit=10**(k-1)
+        while temp>=limit:
+            sub_num=temp%mod_base
             if sub_num!=0 and num%sub_num==0:
                 count+=1
+            temp//=10
         return count
