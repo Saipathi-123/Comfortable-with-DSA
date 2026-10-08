@@ -11,7 +11,6 @@ class Solution {
                 left+=1;
             }
         }
-        if(ws==Integer.MAX_VALUE){return 0;}
-        else{return ws;}
+        return (ws == Integer.MAX_VALUE) ? 0 : ws;
     }
 }
