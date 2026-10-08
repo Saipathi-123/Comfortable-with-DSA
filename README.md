@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -92,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/2269-find-the-k-beauty-of-a-number) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
