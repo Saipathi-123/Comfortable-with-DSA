@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0392-is-subsequence) |
 | [0925-long-pressed-name](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0925-long-pressed-name) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Saipathi-123/Comfortable-with-DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
